@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sedani Lesara</h1>
 <h3 align="center">Software Engineering Undergraduate at IIT | Exploring Real-World Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedani25&label=Profile%20views&color=0e75b6&style=flat" alt="sedani25" /> </p>
 
 <h3 align="left">How to reach me: </h3> <a href="mailto:sedanilesara25@gmail.com">sedanilesara25@gmail.com</a>
 
