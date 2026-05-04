@@ -1,14 +1,14 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sedani%20Lesara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20Undergraduate%20|%20Full-Stack%20Developer&descSize=18&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6FD8,100:3813C2&height=200&section=header&text=Sedani%20Lesara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast&descSize=18&descAlignY=65" />
 </p>
 
 <h3 align="center">
-  Undergraduate Software Engineering Student @ IIT
+  Software Engineering Undergraduate @ IIT (UoW)
 </h3>
 
 <p align="center">
-  Passionate about building real-world applications, scalable systems, and clean user experiences.
+  Passionate about building scalable web applications, intelligent systems, and real-world digital solutions.
 </p>
 
 ---
@@ -16,9 +16,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate at **IIT**
-- 💻 Interested in **Full-Stack Development & Mobile App Development**
-- 🚀 Currently building: **Maporia**
-- 🌱 Learning: **Flutter, React**
+- 💻 Interested in **Full-Stack Development, Web Development & AI/ML**
+- 🚀 Built real-world project: **Maporia**
+- 🌱 Currently improving skills in **React, Flutter & Machine Learning**
 - 🤝 Strong in **teamwork, leadership & problem-solving**
 - 📫 Reach me: **sedanilesara25@gmail.com**
 
@@ -37,13 +37,35 @@
 
 ---
 
-### 🌐 Web & Mobile Development
+### 🌐 Web & Full-Stack Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </div>
 
 <p align="center">
-  HTML • CSS • React • Node.js • Flutter
+  HTML • CSS • React • Node.js • Express
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</div>
+
+<p align="center">
+  Pandas • Scikit-learn • TensorFlow • PyTorch (Basics)
+</p>
+
+---
+
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</div>
+
+<p align="center">
+  Flutter • Dart
 </p>
 
 ---
@@ -65,8 +87,21 @@
 </div>
 
 <p align="center">
-  Git • GitHub • VS Code • IntelliJ • Postman • Docker • Figma
+  Git • GitHub • VS Code • IntelliJ • Postman • Figma
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 🌍 Maporia  
+A **real-world mobile application** developed to solve practical problems using modern technologies.
+
+🔹 Built using: Flutter, Firebase  
+🔹 Focus: User-friendly design & real-time functionality  
+🔹 Status: ✅ Completed  
+
+👉 https://github.com/MaporiaSL/MaporaSL_Mobile
 
 ---
 
@@ -74,17 +109,9 @@
 
 <div align="center">
 
-`Full-Stack Development` • `Mobile App Development` • `System Design` • `AI/ML Basics`
+`Full-Stack Development` • `Web Development` • `AI/ML` • `System Design`
 
 </div>
-
----
-
-## 🚀 Featured Project
-
-🔹 **Maporia**  
-A mobile application focused on delivering real-world solutions.  
-👉 https://github.com/MaporiaSL/MaporaSL_Mobile
 
 ---
 
@@ -92,9 +119,9 @@ A mobile application focused on delivering real-world solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sedani25&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=sedani25&show_icons=true&theme=tokyonight" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sedani25&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sedani25&theme=tokyonight" />
 
 </div>
 
