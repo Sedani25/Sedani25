@@ -83,7 +83,7 @@
 
 ### 🛠 Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
 </div>
 
 <p align="center">
