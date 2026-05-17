@@ -71,11 +71,11 @@
 
 ### 🗄️ Databases & Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </div>
 
 <p align="center">
-  MySQL • MongoDB • Firebase • Supabase
+  MongoDB • Firebase 
 </p>
 
 ---
